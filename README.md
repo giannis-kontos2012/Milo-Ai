@@ -107,10 +107,3 @@ Something small… but unique.
 
 Milo isn’t trying to be perfect.  
 It’s trying to be *fun, local, and yours*.
-"""
-
-file_path = "/mnt/data/README.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(content)
-
-file_path
