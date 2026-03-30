@@ -1,6 +1,4 @@
-# Create the README.md file with the provided content
-
-content = """# 🖥️ Milo
+# 🖥️ Milo
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%205-blue)
